@@ -9,6 +9,7 @@ coins_slip44 = {
     'Dash': 5,
     'Namecoin': 7,
     'Monacoin': 22,
+    'MonetaryUnit': 31,
     'Decred': 42,
     'Ether': 60,
     'EtherClassic': 61,
@@ -27,5 +28,6 @@ coins_txapi = {
     'Decred Testnet': TxApiDecredTestnet,
     'Dogecoin': TxApiDogecoin,
     'Monacoin': TxApiMonacoin,
+    'MonetaryUnit': TxApiMonetaryUnit,
     'Bitcoin Gold': TxApiBitcoinGold,
 }
