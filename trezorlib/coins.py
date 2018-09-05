@@ -1,4 +1,4 @@
-from .tx_api import TxApiBitcoin, TxApiTestnet, TxApiLitecoin, TxApiZcash, TxApiDash, TxApiBcash, TxApiDecredTestnet, TxApiDogecoin, TxApiMonacoin, TxApiBitcoinGold
+from .tx_api import TxApiBitcoin, TxApiTestnet, TxApiLitecoin, TxApiZcash, TxApiDash, TxApiBcash, TxApiDecredTestnet, TxApiDogecoin, TxApiMonacoin, TxApiBitcoinGold, TxApiMonetaryUnit
 
 coins_slip44 = {
     'Bitcoin': 0,
