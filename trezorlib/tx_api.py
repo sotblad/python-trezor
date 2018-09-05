@@ -195,3 +195,4 @@ TxApiDecredTestnet = TxApiInsight(network='insight_decred_testnet', url='https:/
 TxApiDogecoin = TxApiBlockCypher(network='blockcypher_dogecoin', url='https://api.blockcypher.com/v1/doge/main/')
 TxApiSegnet = TxApiSmartbit(network='smartbit_segnet', url='https://segnet-api.smartbit.com.au/v1/blockchain/')
 TxApiMonacoin = TxApiInsight(network='insight_monacoin', url='https://mona.insight.monaco-ex.org/insight-api-monacoin/')
+TxApiMonetaryUnit = TxApiInsight(network='insight_monetaryunit', url='https://explorer.monetaryunit.org/insight-api-mue/')
